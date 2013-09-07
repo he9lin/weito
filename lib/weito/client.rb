@@ -1,5 +1,3 @@
-# TODO: json result in which format?
-#
 module Weito
   class Client
     MAX_SEARCH_RESULT_COUNT = 50
